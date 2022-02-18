@@ -1,0 +1,10 @@
+how to execute:
+
+step 1) install the JwinAPI files and java 1.6 files in the "software to be installed" folder
+       
+2)copy the jar file which is in another mail.Mail name is "Mail 2: Voice Rendered Command and
+    Control System in Java" in your gmail account
+
+2)click the start batch file in the demo folder
+
+3)a user interface will open, there click start button

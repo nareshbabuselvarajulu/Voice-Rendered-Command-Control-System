@@ -1,0 +1,7 @@
+to run this project,your system should be installed with jre1.6
+
+
+
+to download freely... 
+
+go to the site  "http://java.sun.com/javase/downloads/index.jsp"
